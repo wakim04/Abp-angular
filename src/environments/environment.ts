@@ -3,7 +3,7 @@ import { Environment } from '@abp/ng.core';
 const baseUrl = 'http://wakim04-001-site1.itempurl.com';
 
 export const environment = {
-  production: false,
+  production: true,
   application: {
     baseUrl,
     name: 'BookStore',
